@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457bffc2-faf2-48ad-8356-5d9203c67ce9" name="Default Changelist" comment="" />
+    <list default="true" id="457bffc2-faf2-48ad-8356-5d9203c67ce9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce/shipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/ClassesExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/ConstructorEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/ConstructorEx2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Converters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/EmojiConverter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Keyword_Argument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/NumberToString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/ReturnStatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/TwoDArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/forEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/guessgame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/importExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/inheritanceEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/listFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/nestedLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pattern1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/removeDuplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/toupls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/test1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +47,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1SuhL32apI8NGigQAW2ekmlIVHN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\y509137\PycharmProjects\FirstPro\venv" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,29 +72,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test1">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FirstPro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.importExample">
+    <configuration name="ConstructorEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FirstPro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +85,91 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ConstructorEx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ConstructorEx2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FirstPro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ConstructorEx2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Module" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FirstPro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="importExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FirstPro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/importExample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inheritanceEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FirstPro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/inheritanceEx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,8 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.app" />
+        <item itemvalue="Python.importExample" />
+        <item itemvalue="Python.Module" />
+        <item itemvalue="Python.inheritanceEx" />
+        <item itemvalue="Python.ConstructorEx2" />
+        <item itemvalue="Python.ConstructorEx" />
       </list>
     </recent_temporary>
   </component>
@@ -90,5 +200,16 @@
       <updated>1572419329141</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
